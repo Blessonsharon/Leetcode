@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Blessonsharon/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Blessonsharon/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Blessonsharon/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Blessonsharon/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -56,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/Blessonsharon/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
