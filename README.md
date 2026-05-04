@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Blessonsharon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Blessonsharon/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0796-rotate-string](https://github.com/Blessonsharon/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Blessonsharon/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Blessonsharon/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -142,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Blessonsharon/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Blessonsharon/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
