@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Blessonsharon/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Blessonsharon/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Blessonsharon/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Blessonsharon/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Blessonsharon/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Blessonsharon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Blessonsharon/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Blessonsharon/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Blessonsharon/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Blessonsharon/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Counting
