@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessonsharon/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0048-rotate-image](https://github.com/Blessonsharon/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Blessonsharon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessonsharon/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Blessonsharon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Greedy
