@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Blessonsharon/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Blessonsharon/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Blessonsharon/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Blessonsharon/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Blessonsharon/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Blessonsharon/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Blessonsharon/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Blessonsharon/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Blessonsharon/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Blessonsharon/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Blessonsharon/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
