@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Blessonsharon/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/Blessonsharon/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Blessonsharon/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Blessonsharon/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Blessonsharon/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Blessonsharon/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
