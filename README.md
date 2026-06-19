@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Blessonsharon/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Blessonsharon/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Blessonsharon/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Blessonsharon/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Blessonsharon/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Blessonsharon/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Blessonsharon/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Blessonsharon/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Blessonsharon/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Blessonsharon/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
