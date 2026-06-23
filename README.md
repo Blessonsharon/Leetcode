@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Blessonsharon/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/Blessonsharon/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Blessonsharon/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Blessonsharon/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Blessonsharon/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
