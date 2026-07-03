@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Blessonsharon/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Blessonsharon/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Blessonsharon/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Blessonsharon/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Blessonsharon/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/Blessonsharon/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Blessonsharon/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Blessonsharon/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,13 +264,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Blessonsharon/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
