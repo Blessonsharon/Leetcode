@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/Blessonsharon/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Blessonsharon/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Blessonsharon/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Blessonsharon/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Blessonsharon/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/Blessonsharon/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
