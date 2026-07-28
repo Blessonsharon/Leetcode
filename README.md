@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Blessonsharon/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Blessonsharon/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Blessonsharon/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Blessonsharon/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Blessonsharon/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Blessonsharon/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Blessonsharon/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Blessonsharon/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
@@ -334,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Blessonsharon/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
