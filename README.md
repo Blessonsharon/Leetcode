@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Blessonsharon/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Blessonsharon/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Blessonsharon/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Blessonsharon/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Blessonsharon/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Blessonsharon/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Blessonsharon/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Blessonsharon/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Blessonsharon/Leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Blessonsharon/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Blessonsharon/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Blessonsharon/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Blessonsharon/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Blessonsharon/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Blessonsharon/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Blessonsharon/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Geometry
