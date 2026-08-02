@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Blessonsharon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0877-stone-game](https://github.com/Blessonsharon/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Blessonsharon/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/Blessonsharon/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Blessonsharon/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Blessonsharon/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Blessonsharon/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Blessonsharon/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Blessonsharon/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Blessonsharon/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Blessonsharon/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Blessonsharon/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Blessonsharon/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Blessonsharon/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Blessonsharon/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -353,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Blessonsharon/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Blessonsharon/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
