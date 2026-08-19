@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Blessonsharon/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Blessonsharon/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Blessonsharon/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Blessonsharon/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Blessonsharon/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Blessonsharon/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Blessonsharon/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Blessonsharon/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Blessonsharon/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Blessonsharon/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
