@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Blessonsharon/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Blessonsharon/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Blessonsharon/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Blessonsharon/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/Blessonsharon/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Blessonsharon/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Blessonsharon/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Blessonsharon/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/Blessonsharon/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Blessonsharon/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Blessonsharon/Leetcode/tree/main/0788-rotated-digits/) | Medium |
