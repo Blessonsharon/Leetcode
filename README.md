@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Blessonsharon/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Blessonsharon/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/Blessonsharon/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1871-jump-game-vii](https://github.com/Blessonsharon/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Blessonsharon/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Blessonsharon/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Blessonsharon/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Blessonsharon/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Blessonsharon/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Blessonsharon/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Blessonsharon/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
